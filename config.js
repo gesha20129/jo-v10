@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285730794089','6285730794089','6285730794089']
+global.owner = ['6285730794089','6285730794089','6281379880372']
 global.premium = ['6285730794089']
 global.packname = 'Punya'
 global.author = 'Gilzz Tch'
