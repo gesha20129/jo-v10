@@ -23,7 +23,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
 global.owner = ['-','-','-']
-global.premium = ['6285891318105']
+global.premium = ['-']
 global.packname = 'Yang Nyolong'
 global.author = 'Hamilnya Ngidam Stiker🗿'
 global.wlcm = []
