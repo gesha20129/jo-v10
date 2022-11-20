@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285891318105','6285891318105','6285891318105']
+global.owner = ['-','-','-']
 global.premium = ['6285891318105']
 global.packname = 'Yang Nyolong'
 global.author = 'Hamilnya Ngidam Stiker🗿'
