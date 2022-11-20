@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Gizz Exe'
+global.ownername = 'Wiliam 𝟰𝟬𝟰'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285730794089','6285730794089','6281379880372']
-global.premium = ['6285730794089']
-global.packname = 'Punya'
-global.author = 'Gilzz Tch'
+global.owner = ['6285891318105','6285891318105','6285891318105']
+global.premium = ['6285891318105']
+global.packname = 'Yang Nyolong'
+global.author = 'Hamilnya Ngidam Stiker🗿'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
